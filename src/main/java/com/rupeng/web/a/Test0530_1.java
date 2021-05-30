@@ -6,7 +6,7 @@ package com.rupeng.web.a;
  */
 public class Test0530_1 {
     public static void main(String[] args) {
-        System.out.println("第2次提交并上传");
+        System.out.println("第2次提交并上传并且准备建立分支");
     }
 
 }
